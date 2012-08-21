@@ -1,0 +1,16 @@
+{
+  "name":    "splunk-storm-proxy",
+  "version": "0.0.1",
+
+  "dependencies": {
+    "coffee-script": "1.2.x",
+    "express":       "2.5.x",
+    "nodemon":       "0.6.18",
+    "restler":       "2.0.x"
+  },
+
+  "engines": {
+    "node": "0.8.x",
+    "npm":  "1.1.x"
+  }
+}
